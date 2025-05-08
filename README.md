@@ -1,5 +1,5 @@
-# AI-Ed-TECH
-An AI-driven educational assistant that personalizes learning by accepting user-defined topics and objectives, fetching content from various sources, and generating comprehensive, structured reports tailored to individual learning styles
+ ### Enhanced Interactive Learning Assistant
+An AI-driven educational assistant that personalizes learning by accepting user-defined topics and objectives, fetching content from various sources, and generating comprehensive, structured reports tailored to individual learning styles.
 
 # Description
 The Enhanced Interactive Learning Assistant is built to streamline personalized education. Users provide a topic and goal, and the system interacts with them to understand preferences and prior knowledge. It gathers content from simulated sources (web, video, academic), processes it, and presents a refined educational report including citations, visual aids, and further recommendations.
